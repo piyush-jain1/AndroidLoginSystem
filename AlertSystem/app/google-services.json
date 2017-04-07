@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "515028101800",
+    "firebase_url": "https://myfirebaseauthapp-69809.firebaseio.com",
+    "project_id": "myfirebaseauthapp-69809",
+    "storage_bucket": "myfirebaseauthapp-69809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515028101800:android:e2e5f6c276945ed4",
+        "android_client_info": {
+          "package_name": "com.example.alertsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515028101800-m65kl9q73v9qk9dvk9dpqqiie2a9dl6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnBu7yy7-Od9ebgZOwo9o6Sp1lYMvnpxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
